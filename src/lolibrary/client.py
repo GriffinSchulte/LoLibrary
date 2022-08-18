@@ -1,7 +1,6 @@
 """League of Legends API Client Library"""
 import json
 
-from loguru import logger
 from .session import LoLibrarySession
 
 
